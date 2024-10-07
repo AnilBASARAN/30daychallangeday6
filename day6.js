@@ -1,4 +1,5 @@
 /* DAY6 CHALLANGE
+this is the daily challange ı decided to make it 100days :D secret to myself
 pair sum
 Write a function, pairSum, that takes in an array and a target sum as arguments. The function should return an array containing a pair of indices whose elements sum to the given target. The indices returned must be unique.
 
